@@ -8,18 +8,20 @@ Entry for the [make.fun bounty "Sum up 22 November's world news in one image"](h
 
 ## What it is
 
-A numbered poster, drawn in code, summing up Sunday 22 November 2026:
+A fresh newspaper front page, drawn in code, summing up Sunday 22 November 2026:
 
-- **44 numbered stories**, every one first reported on 22 November 2026,
-  each with a source tag (AP, Reuters, ANI, ATP, Lancet, CVE, NBC, Dragos)
-  and a CONFIRMED / OFFICIALS SAY / REPORTED marker.
+- **39 numbered stories**, every one first reported on 22 November 2026:
+  15 illustrated lead cards (COP31 collapses with no deal, 186 drones over
+  Ukraine, the Merkury sunk off Benghazi, and more) plus 24 one-liners in
+  "ALSO ON SUNDAY 22 NOVEMBER" — each with a source tag (Reuters, AP, AFP,
+  ATP, Lancet, and others) and a CONFIRMED / CLAIM / REPORTED marker.
 - **A world map with numbered pins** ("WHERE IT HAPPENED").
 - **A UTC timeline** and **a numbers strip** ("THE DAY IN NUMBERS").
-- **A DATE CHECK box** naming 20 near-miss stories that were first reported
-  before 22 November and were deliberately left out — including the
-  Trump–Xi–Putin summit (19 Nov), the Iran strikes on Bahrain (21 Nov),
-  the "El Chapo Isidro" capture (20 Nov) and the Amazon–Decart talks
-  (FT, 21 Nov).
+- **A DATE CHECK box** naming 12 near-miss stories that were first reported
+  before 22 November and were deliberately left out — including the Gaza
+  food-aid van strike (21 Nov), the Bahrain strikes themselves (21 Nov),
+  the "El Chapo Isidro" capture (20 Nov) and the Trump–Xi–Putin summit
+  (19 Nov).
 
 ## How it runs
 
